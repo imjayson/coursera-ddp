@@ -44,8 +44,3 @@ Using the application is simple. Just input your height and click on the submit 
 The estimation will be shown on the right pane.
 
 ![Application](app.png)
-
-Acknowledgements
-========================================================
-
-Special thanks to the Data Science Specialization teaching stuff, shinyapps.io and Galton.
